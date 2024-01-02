@@ -1,20 +1,22 @@
 [
-	{	"id": 1,
+	{	
+		"id": 1,
 		"name": "Nui Co Tien",
 		"img": "https://i.postimg.cc/R0PbBZF8/2.png",
 		"price": 4000,
 		"people": 200,
 		"stars": 4,
 		"description": "Loremdah dajdb andkja n da jkd naj kdnaj kdbka hcbd",	
-		"location": "Vung Tau",
+		"location": "Vung Tau"
 	},
-  	{	"id": 2,
+  	{	
+		"id": 2,
 		"name": "Nui Ba Den",
 		"img": "https://i.postimg.cc/R0PbBZF8/2.png",
 		"price": 4000,
 		"people": 100,
 		"stars": 3,
 		"description": "Loremdah dajdb andkja n da jkd naj kdnaj kdbka hcbd",	
-		"location": "Tay Ninh",
+		"location": "Tay Ninh"
 	}
 ]
