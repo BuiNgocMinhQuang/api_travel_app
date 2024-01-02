@@ -1,0 +1,22 @@
+[
+	{
+		“id”: 1,
+		“description”: “Loremdah 	dajdb andkja n da jkd naj kdnaj kdbka hcbd”,	
+		“img” :”https://i.postimg.cc/R0PbBZF8/2.png”,
+		“location”: “Vung Tau”,
+		“name”: “Nui Co Tien”,
+		“people”: 200,
+		“stars”: 4,
+		“price”: 4000,
+	},
+  {
+		“id”: 1,
+		“description”: “Loremdah 	dajdb andkja n da jkd naj kdnaj kdbka hcbd”,	
+		“img” :”https://i.postimg.cc/R0PbBZF8/2.png”,
+		“location”: “Vung Tau”,
+		“name”: “Nui Co Tien”,
+		“people”: 200,
+		“stars”: 4,
+		“price”: 4000,
+	},
+]
