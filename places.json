@@ -1,22 +1,22 @@
 [
 	{	
 		"id": 1,
-		"name": "Nui Co Tien",
-		"img": "https://i.postimg.cc/R0PbBZF8/2.png",
+		"name": "Bali",
+		"img": "https://i.postimg.cc/bvn2W4wP/Bali.png",
 		"price": 4000,
 		"people": 200,
 		"stars": 4,
-		"description": "Loremdah dajdb andkja n da jkd naj kdnaj kdbka hcbd",	
-		"location": "Vung Tau"
+		"description": "Bali has remained as one of the world's top island destinations for decades and it's easy to see why. From white sand beaches to a thriving nightlife, this tropical paradise has something for every kind of traveler. \n The seaside temple of Tanah Lot, cascading rice terraces of Ubud, and black volcanic beach of Amed are only some of the beautiful views that can be found there. Diving spots at Tulamben and Nusa Penida also offer a glimpse of the vibrant marine life encircling the island. Nature aside, Bali is also known for its delicious food, ranging from beachside seafood stalls to world-class fine dining restaurants. \n The island is constantly changing, with new constructions at every corner and hordes of tourists from across the globe. Yet, the Balinese spirit — reflected in the locals' genuine warmth and Hindunese spirituality — keeps it as one of the most alluring places to lose yourself in.",	
+		"location": "Indonesia"
 	},
   	{	
 		"id": 2,
-		"name": "Nui Ba Den",
-		"img": "https://i.postimg.cc/R0PbBZF8/2.png",
+		"name": "Bangkok",
+		"img": "https://i.postimg.cc/Cxz8HRyz/Bangkok.png",
 		"price": 4000,
 		"people": 100,
 		"stars": 3,
-		"description": "Loremdah dajdb andkja n da jkd naj kdnaj kdbka hcbd",	
-		"location": "Tay Ninh"
+		"description": "Bangkok or Krung Thep 'the city built by angels,' as called by Thais, is forever vibrant and lively with its bright skyscrapers that contrast with the gleaming temples of the Rattanakosin era. Well-loved by solo backpackers looking for an urban adventure and families exploring culture and history, this city is always one of the hottest destinations in the world (literally). \n Whether you want to pay respects to the Reclining Buddha at Wat Pho, marvel at the extravagant Grand Palace full of long murals, or stroll along the streets of the Train Night Market to taste endless delectable dishes, Bangkok has it all. Satisfy your local and high-end shopping needs at various open markets bustling with noise, or shopping malls that offer you a premium experience. \n Do not forget an opportunity to see the beauty of the Chao Phraya River at night and join the nightlife crowd for shows and entertainment that will get your heart pumping!",	
+		"location": "Thailan"
 	}
 ]
