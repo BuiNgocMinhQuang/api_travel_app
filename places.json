@@ -18,5 +18,25 @@
 		"stars": 3,
 		"description": "Bangkok or Krung Thep 'the city built by angels,' as called by Thais, is forever vibrant and lively with its bright skyscrapers that contrast with the gleaming temples of the Rattanakosin era. Well-loved by solo backpackers looking for an urban adventure and families exploring culture and history, this city is always one of the hottest destinations in the world (literally). \n Whether you want to pay respects to the Reclining Buddha at Wat Pho, marvel at the extravagant Grand Palace full of long murals, or stroll along the streets of the Train Night Market to taste endless delectable dishes, Bangkok has it all. Satisfy your local and high-end shopping needs at various open markets bustling with noise, or shopping malls that offer you a premium experience. \n Do not forget an opportunity to see the beauty of the Chao Phraya River at night and join the nightlife crowd for shows and entertainment that will get your heart pumping!",	
 		"location": "Thailan"
+	},
+	{	
+		"id": 3,
+		"name": "Seoul",
+		"img": "https://i.postimg.cc/hjq7BMXd/Seoul.png",
+		"price": 8000,
+		"people": 600,
+		"stars": 4,
+		"description": "Seoul is the capital city of South Korea that is vibrant with numerous tourist attractions, like shopping areas, museums, amusement parks, and royal palaces in some of its districts. Being a metropolitan area, Seoul is one of the cities which has a large number of visiting tourists compared to any other region in South Korea. \n This city is also the home to 5 major palaces in this country: Gyeongbok-gung, Changdeok-gung, Deoksu-gung, Changgyeong-gung, and Gyeonghui-gung. Here, tourists can try the experience of wearing a Hanbok – South Korea’s traditional outfit – while exploring the palace. Visiting Seoul is obviously incomplete without shopping for some makeup. Myeong-dong, Apgujeong, Itaewon, and Insadong are a few areas that are packed with tourists due to its well-known makeup stores that line up along the streets. Don't forget to go to Gwangjang or Namdaemun traditional market to enjoy authentic local food for a fun culinary adventure.",	
+		"location": "South Korea"
+	},
+	{	
+		"id": 4,
+		"name": "Istanbul",
+		"img": "https://i.postimg.cc/Sx3MZmqV/Istanbul.png",
+		"price": 2000,
+		"people": 50,
+		"stars": 4,
+		"description": "It’s easy to lose yourself In Istanbul’s grandiose history. Formerly known as Byzantium and Constantinople, today Istanbul is a bustling metropolis peppered with buildings that reflect the various peoples and empires that have ruled the city. No longer the capital of Turkey since 1923, its influence has not faded, still holding the seat as the country’s business and cultural center. It is here where new trends are constantly created, the shopping is world class, and the nightlife pulsates around Taksim Square.",	
+		"location": "Turkey"
 	}
 ]
